@@ -18,6 +18,7 @@ Sorry, Matt.
 
 
 #### 2. Call jQuery's regular <strong>addClass()</strong> on an element: 
+
 ```
 $('div').addClass('example'); 
 ```
